@@ -1,4 +1,4 @@
-20504295439951092
+20507603671528210
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -81403,6 +81403,13 @@ Panel_2x5
 0
 0
 TK44
+Powered_By_ZMK
+Converted using: svg2mod --debug -f 2 -p 0.1 -i /home/peter/Downloads/zmk2.svg -o logo.pretty/zmk2.kicad_mod --format pretty
+svg2mod
+0
+0
+0
+TK44
 R_0603
 
 
@@ -81451,6 +81458,13 @@ USB-C-PCB
 0
 24
 24
+TK44
+logo
+
+
+0
+0
+0
 TK44
 silk_back
 
