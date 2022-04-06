@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "space-invader")(type "KiCad")(uri "C:/git/space-invader/pcb/space-invader/space-invader.kicad_sym")(options "")(descr ""))
+)
