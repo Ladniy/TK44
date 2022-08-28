@@ -23,3 +23,6 @@ fp-info-cache
 
 # Backup files (exported from Pcbnew)
 *-backups/
+
+# MacOs
+**/.DS_Store
