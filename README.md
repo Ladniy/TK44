@@ -7,7 +7,7 @@ Wireless ergo unibudy keyboard, based on [Holyiot-18010 (nRF52840)](http://www.h
 * __Hardware Availability:__ [Free to use]()
 * __Firmware:__ [ZMK](https://github.com/krikun98/zmk-config/tree/tk44)
 
-Check out [wiki-page]() for more information.
+Check out [wiki-page](https://github.com/Ladniy/TK44/wiki) for more information.
 
 ## Project status
 
