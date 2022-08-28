@@ -4,7 +4,7 @@ Wireless ergo unibudy keyboard, based on [Holyiot-18010 (nRF52840)](http://www.h
 
 * __Author:__ [t.me/ladniys](https://t.me/ladniys) [u/Ladniy](https://reddit.com/u/Ladniy)
 * __Layout:__ [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/#/gists/4b6c2af67148f58ddd6c6b2976c4370f) (actually same as [Jian's](https://github.com/KGOH/Jian-Info))
-* __Hardware Availability:__ [Free to use]()
+* __Hardware Availability:__ [Free to use](https://github.com/Ladniy/TK44/releases/tag/v1.0.0)
 * __Firmware:__ [ZMK](https://github.com/krikun98/zmk-config/tree/tk44)
 
 Check out [wiki-page](https://github.com/Ladniy/TK44/wiki) for more information.
