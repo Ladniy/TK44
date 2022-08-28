@@ -9,6 +9,12 @@ Wireless ergo unibudy keyboard, based on [Holyiot-18010 (nRF52840)](http://www.h
 
 Check out [wiki-page](https://github.com/Ladniy/TK44/wiki) for more information.
 
+## Photos
+
+![Main Photo](https://i.imgur.com/fLbH7DQ.jpg)
+
+**See more photos on [Imgur](https://imgur.com/a/DaCdFm3)**
+
 ## Project status
 
 **The keyboard is fully functional, no problems were noticed.**
