@@ -23,4 +23,4 @@ Check out [wiki-page](https://github.com/Ladniy/TK44/wiki) for more information.
 
 This project is licensed under a [CERN-OHL-P v2.0](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2).
 
-Feel free to use, share, modify or even sell Jiran BLE Lite!
+Feel free to use, share, modify or even sell TK44!
