@@ -1,6 +1,6 @@
 ![Title Image](https://i.imgur.com/D2KuKwu.png)
 
-Wireless ergo unibudy keyboard, based on [Holyiot-18010 (nRF52840)](http://www.holyiot.com/tp/2019042516322180424.pdf) module.
+Wireless ergo unibody split keyboard, based on [Holyiot-18010 (nRF52840)](http://www.holyiot.com/tp/2019042516322180424.pdf) module.
 
 * __Author:__ [@ladniys (Telegram)](https://t.me/ladniys) [u/Ladniy (Reddit)](https://reddit.com/u/Ladniy)
 * __Layout:__ [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/#/gists/4b6c2af67148f58ddd6c6b2976c4370f) (actually same as [Jian's](https://github.com/KGOH/Jian-Info))
